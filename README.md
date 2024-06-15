@@ -1,1 +1,1 @@
-# SCT_ML_1
+# House prediction modelling using linear regression model
